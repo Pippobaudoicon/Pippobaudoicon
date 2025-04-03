@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting clea
 - 🎮 Gaming, D&D, and a bit of Pathfinder 2e fun 🏴‍☠️
 
 ## 📫 Get in Touch
-🌐 **Website:** [tommasolopiparo.com](https://tommasolopiparo.com)  
-🐦 **Instagram:** [@tommilopi](https://twitter.com/tommilopi)  
-💼 **LinkedIn:** [linkedin.com/in/tommasolopiparo](https://linkedin.com/in/tommasolopiparo)
+🌐 **Website:** <a href="https://tommasolopiparo.com" target="_blank">tommasolopiparo.com</a>  
+🐦 **Instagram:** <a href="https://twitter.com/tommilopi" target="_blank">@tommilopi</a>  
+💼 **LinkedIn:** <a href="https://linkedin.com/in/tommasolopiparo" target="_blank">linkedin.com/in/tommasolopiparo</a>
 
 ---
 🛠️ *"Learn fast, adapt quickly, code clean, and problem-solve until the solution is found!"* 🚀
