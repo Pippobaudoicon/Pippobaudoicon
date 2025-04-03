@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting clea
 
 ## 🔥 About Me
 - 🧑‍💻 Developer & Tech Enthusiast
+- 🏢 Professionally focused on **backend development, APIs, DevOps, and database structures**
 - 🎨 Building creative & interactive web experiences
 - 🌱 Currently learning **Next.js & Kubernetes**
 - 🏗️ Working with **Node.js, TypeScript, PHP, Laravel, SQL, NoSQL, Docker, AWS, and many more**
@@ -15,7 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting clea
 
 ## 🎭 Fun Stuff
 - 🛰️ I’m working on an **asteroid-like cursor** for my portfolio 🚀
-- ⚙️ Passionate about **backend development, APIs, DevOps, and database structures**
 - 🎮 Gaming, D&D, and a bit of Pathfinder 2e fun 🏴‍☠️
 
 ## 📫 Get in Touch
