@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting clea
 - 🏢 Professionally focused on **backend development, APIs, DevOps, and database structures**
 - 🎨 Building creative & interactive web experiences
 - 🌱 Currently learning **Nest.js & Kubernetes**
-- 🏗️ Working with **Node.js, TypeScript, PHP, Laravel, SQL, NoSQL, Docker, AWS, and many more**
+- 🏗️ Working with **Node.js, TypeScript, PHP, Laravel, Python, SQL, NoSQL, Docker, AWS, and many more**
 - 💡 Love to share knowledge and help others grow
 
 ## 🚀 Tech Stack
